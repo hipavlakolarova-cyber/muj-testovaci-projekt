@@ -1,0 +1,6 @@
+Poznámky k projektu
+===================
+
+- První verze projektu vznikla pomocí `git init`.
+- Soubory byly vytvořeny jako vzorové.
+- TODO: rozšířit README a přidat další funkce.

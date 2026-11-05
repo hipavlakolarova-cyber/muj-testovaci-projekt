@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtuální prostředí
+.venv/
+venv/
+
+# Systémové soubory macOS
+.DS_Store
